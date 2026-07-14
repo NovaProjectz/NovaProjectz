@@ -4,7 +4,7 @@
 
 **Technology built for what comes next.**
 
-[Website](https://novaproject.cloud) · [Blog](https://novaproject.cloud/blog) · [LinkedIn](https://www.linkedin.com/in/novaprojectz/) · [Contact](mailto:contact@novaproject.cloud)
+[Website](https://novaproject.cloud) · [Blog](https://novaproject.cloud/blog) · [LinkedIn](https://www.linkedin.com/in/novaprojectz/) · [Crunchbase](https://www.crunchbase.com/organization/novaproject-8bd3) · [Contact](mailto:contact@novaproject.cloud)
 
 </div>
 
